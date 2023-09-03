@@ -9,6 +9,19 @@ Besides studying📘 on campus, I took courses to improve skills in web applicat
 
 Follow my Social Media on [LinkedIn](www.linkedin.com/in/esra-tarigan).
 
+### Tech Stack
+<a href="https://seeklogo.com/vector-logo/363134/laravel"><img align="left" alt="php" title="php" width="27px" src="https://seeklogo.com/images/L/laravel-logo-41EC1D4C3F-seeklogo.com.png" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="27px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<br>
+<br>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/EsraTarigan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EsraTarigan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EsraTarigan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
