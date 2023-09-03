@@ -14,8 +14,9 @@ Follow my Social Media on [LinkedIn](www.linkedin.com/in/esra-tarigan).
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="27px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
 <br>
 <br>
+<br>
 
-### Github Statistic
+
 <p align="left">
 <a href="https://github.com/EsraTarigan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EsraTarigan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
