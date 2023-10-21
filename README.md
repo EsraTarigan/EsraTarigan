@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Esra Tarigan 😎
 
-I'm a College at **Universitas Pamulang**🏫 of Computer Science, *Informatics Engineering*💻.
+I'm a Student at **Universitas Pamulang**🏫 of Computer Science, *Informatics Engineering*💻.
 
 Besides studying📘 on campus, I took courses to improve skills in web application development at🔭 :
  + [Dicoding](https://www.dicoding.com/)
